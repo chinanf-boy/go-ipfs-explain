@@ -1,16 +1,16 @@
 # 帮助
 
-go-ipfs是MIT许可的开源软件. 我们欢迎大大小小的贡献! 看看[社区贡献笔记](https://github.com/ipfs/community/blob/master/contributing.md)吧. 
+go-ipfs是MIT许可的开源软件. 我们欢迎大大小小的贡献! 看看[社区贡献笔记](https://github.com/ipfs/community/blob/master/contributing.zh.md)吧. 
 
 请务必先查看[问题](https://github.com/ipfs/go-ipfs/issues). 在报告内容之前搜索已关闭的内容,并且 (如果可以!) 帮助我们解决 open 中的问题. 
 
-请注意,go-ipfs问题仅适用于 错误报告和可操作功能. 检查[关于报告问题的IPFS社区指南](https://github.com/ipfs/community/blob/master/contributing.md#reporting-issues),如果您的问题不适合作为错误报告或可操作的功能,还有如果您不确定如何在这里提出问题,请查看我们的[关于开放问题的指南](https://github.com/ipfs/go-ipfs/blob/master/docs/github-issue-guide.md)
+请注意,go-ipfs问题仅适用于 错误报告和可操作功能. 检查[关于报告问题的IPFS社区指南](https://github.com/ipfs/community/blob/master/contributing.zh.md#reporting-issues),如果您的问题不适合作为错误报告或可操作的功能,还有如果您不确定如何在这里提出问题,请查看我们的[关于开放问题的指南](https://github.com/ipfs/go-ipfs/blob/master/docs/github-issue-guide.zh.md)
 
 如果您正在寻求帮助,请前往[船长的日志](https://github.com/ipfs/go-ipfs/issues/2247)并尝试从那里找到一个问题. 
 
 ## 行动指南: 
 
-请看,并查看符合我们的要求的[贡献指南](https://github.com/ipfs/community/blob/master/go-code-guidelines.md). 
+请看,并查看符合我们的要求的[贡献指南](https://github.com/ipfs/community/blob/master/go-code-guidelines.zh.md). 
 
 ## 一般准则: 
 
@@ -63,7 +63,7 @@ PR中的所有提交都必须通过测试. 如果不能通过测试,修复提交
 
     为了帮助您自动添加这些片段,您可以运行[setup_commit_msg_hook.sh](https://raw.githubusercontent.com/ipfs/community/master/dev/hooks/setup_commit_msg_hook.sh)脚本将设置一个Git commit-msg 钩子,它将上面的片段添加到你写的所有提交消息中. 
 
-见[有关修改提交的文档](https://github.com/ipfs/community/blob/master/docs/amending-commits.md)有关如何重做提交消息的说明. 
+见[有关修改提交的文档](https://github.com/ipfs/community/blob/master/docs/amending-commits.zh.md)有关如何重做提交消息的说明. 
 
 一些示例提交消息: 
 

@@ -25,9 +25,7 @@
 
 ## ipfs/ipfs
 
-### readme.md
-
-- [中文🇨🇳翻译](./ipfs-translate/README.zh.md)
+### readme.md [中文🇨🇳](./ipfs-translate/README.zh.md)
 
 #### 想看看我们的代码？
 
